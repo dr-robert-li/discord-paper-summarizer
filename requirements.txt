@@ -1,0 +1,5 @@
+selenium
+openai
+requests
+python-dotenv
+pdfminer.six
